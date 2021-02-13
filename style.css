@@ -1,4 +1,3 @@
-
 /*general style*/
 body{
     font-family: Tangerine;
@@ -59,6 +58,11 @@ section{
     padding: 40px;
 }
 
+h1{
+    text-align: center;
+    color: mediumblue;
+}
+
 #xp ul{
     padding: 0px;
     margin: 0px;
@@ -104,5 +108,3 @@ footer {
     display: inline-block;
     width: 390px;
   }
-
-
